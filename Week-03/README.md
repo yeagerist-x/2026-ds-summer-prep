@@ -1,6 +1,5 @@
 # Git Workflow Refresher
 
-How your work moves from the class repo to a graded submission, and back through review.
 
 ## The Big Picture
 
