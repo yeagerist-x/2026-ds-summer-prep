@@ -1,6 +1,6 @@
 # Git Workflow Refresher
 
-How your work moves from the class repo to a graded submission, and back through review.
+How your work moves from the class repo to a graded submission, and back through review. ***adding a thing here to test merge conflicts***
 
 ## The Big Picture
 
